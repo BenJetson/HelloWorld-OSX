@@ -21,6 +21,7 @@
 		9E4659DC245A42A500E0AA72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9E4659DE245A42A500E0AA72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9E4659DF245A42A500E0AA72 /* HelloWorld.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HelloWorld.entitlements; sourceTree = "<group>"; };
+		9E4659E5245A5DD900E0AA72 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		9E4659C9245A42A400E0AA72 = {
 			isa = PBXGroup;
 			children = (
+				9E4659E5245A5DD900E0AA72 /* README.md */,
 				9E4659D4245A42A400E0AA72 /* HelloWorld */,
 				9E4659D3245A42A400E0AA72 /* Products */,
 			);
